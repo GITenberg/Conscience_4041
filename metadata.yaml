@@ -1,0 +1,33 @@
+_repo: Conscience_4041
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Follen, Eliza Lee Cabot
+    aliases:
+    - Cabot, Eliza Lee
+    - Follen, Charles Theodore Christian, Mrs.
+    - Follen, Mrs. (Eliza Lee)
+    birthdate: 1787
+    deathdate: 1860
+    gutenberg_agent_id: '1362'
+    url: http://www.gutenberg.org/2009/agents/1362
+    wikipedia: http://en.wikipedia.org/wiki/Eliza_Lee_Cabot_Follen
+description: ''
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4041'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PS'
+- !lcc 'PZ'
+- !lcsh 'Conscience -- Juvenile fiction'
+- GITenberg
+tableOfContents: Conscience -- "It is only a trifle."
+title: Conscience
+url: http://www.gutenberg.org/ebooks/4041
